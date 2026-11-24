@@ -1,0 +1,19 @@
+Code snippet
+
+id,date,kind,amount,category,currency
+T001,2026-09-04,expense,18.50,food,EUR
+T002,2026-09-01,income,1500.00,salary,EUR
+T003,2026-09-02,expense,650.00,rent,EUR
+T004,2026-09-05,expense,12.30,transport,EUR
+T005,2026-09-06,expense,25.00,entertainment,USD
+T006,2026-09-07,expense,-5.00,food,EUR
+T007,2026-09-08,expense,0,food,EUR
+T008,2026-13-45,expense,10.00,food,EUR
+T009,2026-09-09,expense,abc,food,EUR
+T010,2026-09-10,expense,9.99,shopping,EUR
+T011,2026-09-11,expense,9.99,food,JPY
+T012,2026-09-12,refund,9.99,food,EUR
+,2026-09-13,expense,9.99,food,EUR
+T001,2026-09-14,expense,4.00,food,EUR
+T015,2026-09-15,expense,nan,food,EUR
+
